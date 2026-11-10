@@ -9,10 +9,10 @@
 </div>
 
 <p align="center">
-  <img src="assets/demo.gif" alt="공의 궤적을 따라가며 랠리 구간과 터치 순간을 찾는 화면" width="860" />
+  <img src="assets/demo.gif" alt="공의 궤적 위에 터치마다 번호와 기술(리시브 · 토스 · 공격 · 디그)이 뜨고, 아래 띠에 랠리 진행이 표시되는 화면" width="860" />
 </p>
 
-<p align="center"><sub>공의 궤적을 따라가며 랠리 구간과 터치 순간을 자동으로 찾는다</sub></p>
+<p align="center"><sub>공의 궤적을 따라가며 터치마다 어떤 기술인지 읽고, 랠리의 끝을 잡는다</sub></p>
 
 > 소개용 저장소다. 코드 · 데이터 · 모델은 비공개 저장소에 있다.
 
